@@ -11,5 +11,7 @@ public class Application {
         System.out.println(dateString);
 
         System.out.println("git checkout version-02");
+
+        System.out.println("git checkout version-03");
     }
 }
