@@ -15,5 +15,7 @@ public class Application {
         System.out.println("git checkout version-03");
 
         System.out.println("git merge normal,code in hot-fix branch,git commit version-04");
+
+        System.out.println("git merge conflict,code in master branch,git commit version-0501");
     }
 }
