@@ -21,5 +21,6 @@ public class Application {
         System.out.println("git merge conflict fixed by hand");
 
         System.out.println("git push test!!!");
+        System.out.println("git pull test:code in browser,and then commit.");
     }
 }
